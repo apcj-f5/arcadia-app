@@ -1,0 +1,18 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/apcj-f5/arcadia-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/apcj-f5/arcadia-backend
+[submodule "app2"]
+	path = app2
+	url = https://github.com/apcj-f5/arcadia-app2
+[submodule "app3"]
+	path = app3
+	url = https://github.com/apcj-f5/arcadia-app3
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/apcj-f5/arcadia-nginx
+[submodule "kubernetes"]
+	path = kubernetes
+	url = https://github.com/apcj-f5/arcadia-kubernetes
